@@ -1,0 +1,107 @@
+body {
+  background-color: #5E2DE3 !important;
+}
+
+
+h1 {
+  color: #D8D3E5;
+  
+}
+
+h2 {
+  color: #D8D3E5;
+  
+}
+
+h3 {
+  color: #D8D3E5;
+  
+}
+
+h4 {
+  color: #D8D3E5;
+  
+}
+
+h5 {
+  color: #D8D3E5;
+  
+}
+
+
+.card{
+	background-color: #A289E8 !important; 
+}
+
+.alert.alert-dark{
+	background-color: #A289E8 !important; 
+}
+
+.alert.alert-secondary{
+	background-color: #A289E8 !important; 
+}
+
+.card.bg-light.mb-3{
+	background-color: #A289E8 !important;
+}
+
+.card-header{
+	background-color: #A289E8 !important;
+}
+
+.list-group.list-group-flush{
+	background-color: #A289E8 !important;
+}
+
+.card-body{
+	background-color: #A289E8 !important;
+}
+
+.list-group-item{
+	background-color: #A289E8 !important;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+	background-color: #080414 !important;
+}
+.navbar.fixed-bottom.navbar-light.bg-light{
+	background-color: #080414 !important;
+}
+
+.navbar-collapse{
+	background-color: #080414 !important;
+}
+
+.navbar-right{
+background-color: #080414 !important;
+}
+
+.navbar-brand{
+	color: #A289E8 !important;
+}
+
+.navbar-toggler-icon{
+	background-color: #A289E8 !important;
+}
+
+.nav-link{
+	color: #D8D3E5 !important;
+}
+.nav-link.disabled{
+	color: #817E89 !important;
+	text-decoration: underline !important;
+	
+}
+
+.btn.btn-secondary.btn-block{
+	background-color: #D8D3E5 !important;
+	border-style: solid;
+	
+}
+
+.jumbotron.jumbotron-fluid{
+	color: #A289E8 !important; 
+}
+
+
+
